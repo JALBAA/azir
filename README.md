@@ -11,14 +11,12 @@ zenyata is a "styleless" UI libray, it gives you maximum authority to make you c
 
 # Get Started
 
-## install
-
-1. In command line
+## Install
 ```shell
 npm install zenyata
 ```
 
-2. In your project (module support needed)
+## In your project (module support needed)
 
 ```javascript
 import "zenyata"
@@ -28,7 +26,7 @@ or
 ```javascript
 require("zenyata")
 ```
-3. legacy project use `<script>`
+## legacy project use `<script>`
 
 ```html
 <!--vue needed-->
