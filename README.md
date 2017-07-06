@@ -13,15 +13,34 @@ zenyata is a "styleless" UI libray, it gives you maximum authority to make you c
 
 ## install
 
-## 
+1. In command line
+```shell
+npm install zenyata
+```
 
-# Components
+2. In your project (module support needed)
+
+```javascript
+import "zenyata"
+```
+or
+
+```javascript
+require("zenyata")
+```
+3. legacy project use `<script>`
+
+```html
+<!--vue needed-->
+<script src="zenyata/dist/zenyata.min.js"></script>
+```
+
+
+# Useage
 
 ## scroller
 
-## swiper
-
-### slider
+## swiper & slider
 
 ### pagination
 
