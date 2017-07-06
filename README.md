@@ -38,6 +38,16 @@ require("zenyata")
 
 ## scroller
 
+```html
+<zen-scroller :direction="'vertical'" :height="100px">
+</zen-scroller>
+```
+
+```html
+<zen-scroller>
+</zen-scroller>
+```
+
 ## swiper & slider
 
 ### pagination
